@@ -1,0 +1,15 @@
+C:\Users\alex\geekbrains\c_sharp_4\rasst_3d\bin\Debug\net7.0\rasst_3d.exe
+C:\Users\alex\geekbrains\c_sharp_4\rasst_3d\bin\Debug\net7.0\rasst_3d.deps.json
+C:\Users\alex\geekbrains\c_sharp_4\rasst_3d\bin\Debug\net7.0\rasst_3d.runtimeconfig.json
+C:\Users\alex\geekbrains\c_sharp_4\rasst_3d\bin\Debug\net7.0\rasst_3d.dll
+C:\Users\alex\geekbrains\c_sharp_4\rasst_3d\bin\Debug\net7.0\rasst_3d.pdb
+C:\Users\alex\geekbrains\c_sharp_4\rasst_3d\obj\Debug\net7.0\rasst_3d.csproj.AssemblyReference.cache
+C:\Users\alex\geekbrains\c_sharp_4\rasst_3d\obj\Debug\net7.0\rasst_3d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\geekbrains\c_sharp_4\rasst_3d\obj\Debug\net7.0\rasst_3d.AssemblyInfoInputs.cache
+C:\Users\alex\geekbrains\c_sharp_4\rasst_3d\obj\Debug\net7.0\rasst_3d.AssemblyInfo.cs
+C:\Users\alex\geekbrains\c_sharp_4\rasst_3d\obj\Debug\net7.0\rasst_3d.csproj.CoreCompileInputs.cache
+C:\Users\alex\geekbrains\c_sharp_4\rasst_3d\obj\Debug\net7.0\rasst_3d.dll
+C:\Users\alex\geekbrains\c_sharp_4\rasst_3d\obj\Debug\net7.0\refint\rasst_3d.dll
+C:\Users\alex\geekbrains\c_sharp_4\rasst_3d\obj\Debug\net7.0\rasst_3d.pdb
+C:\Users\alex\geekbrains\c_sharp_4\rasst_3d\obj\Debug\net7.0\rasst_3d.genruntimeconfig.cache
+C:\Users\alex\geekbrains\c_sharp_4\rasst_3d\obj\Debug\net7.0\ref\rasst_3d.dll
